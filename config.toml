@@ -1,0 +1,5 @@
+baseURL = "https://uu4hyu.github.io"
+disablePathToLower = "true"
+languageCode = "en-us"
+title = "uu4hyu.github.io"
+theme = "papercss"
